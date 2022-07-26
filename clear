@@ -1,0 +1,59 @@
+[33mcommit 498e2538c48ad7ef18e7e7493102eade29fd2ce0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Fri Jul 22 11:09:55 2022 +0550
+
+    Update module name to CARDS
+
+[33mcommit b81ceda22125db8c2cc9c7652b08d1bf92ea6544[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Fri Jul 22 10:49:18 2022 +0530
+
+    Module 1 commit
+
+[33mcommit edd4328547f1d71e3600334afef3ed37f5bfec56[m[33m ([m[1;31mME_QTRIPSTATIC_MODULE_LAYOUT_STUB/master[m[33m)[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Sun Aug 22 18:12:20 2021 +0000
+
+    Remove navbar HTML from stubs
+
+[33mcommit 395d211c6c9040f23a1fd7a299bc7d4977bd2eb7[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Sat Aug 21 05:21:51 2021 +0000
+
+    Update pages/adventures/index.html
+
+[33mcommit 3d7188a24072e4d84e8d58bb017b3f797ff62122[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Sat Aug 21 05:08:50 2021 +0000
+
+    [css/styles.css] Center align footer text
+
+[33mcommit 25ba3da0f6fbe7bf06ee1835671df063a611f102[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Sat Aug 21 05:08:03 2021 +0000
+
+    Update Bootstrap CSS and JS files to V5
+
+[33mcommit 813bf5b3f19ad593d1a25f10100b9e0b66a9644d[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Mon Apr 5 15:32:30 2021 +0000
+
+    Update .gitignore with assets/ folder
+
+[33mcommit a64581554c4bce557c357f840139bafcb9c89008[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Thu Oct 29 11:58:54 2020 +0550
+
+    updated changes - 2020-10-29 11:38:54
+
+[33mcommit fdc9a08aa30c7ff92be2844fd8a9b9a1afc8e52c[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Wed Oct 21 15:54:36 2020 +0550
+
+    updated changes - 2020-10-21 15:34:36
+
+[33mcommit 92a311b5bd170de2702fc8fddab641e6235ac5b2[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Mon Oct 19 15:21:16 2020 +0550
+
+    first commit

@@ -64,6 +64,7 @@ footer {
   width: 100%;
   height: 100%;
   transition: 0.5s all;
+  border-radius: 10px;
 }
 .tile img:hover {
   /* TODO: MODULE_CARDS */
@@ -117,17 +118,30 @@ footer {
 /* Adventures grid page CSS */
 /* ================================== */
 
+a {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+
 .adventure-card {
   /* TODO: MODULE_ADVENTURES_GRID */
   /* 1. Fill in the required properties. */
+  height:100%;
+  width:100%;
 }
 .adventure-card img {
   /* TODO: MODULE_ADVENTURES_GRID */
   /* 1. Fill in the required properties. */
+  height:100%;
+  width:100%;
+  object-fit: cover;
+  border-radius: 1rem;
 }
 .adventure-card img:hover {
   /* TODO: MODULE_ADVENTURES_GRID */
   /* 1. Fill in the required properties. */
+  filter: brightness(40%);
 }
 
 /* ================================== */
